@@ -66,7 +66,7 @@ export default function Services() {
 
         <div className="mt-12 text-center">
           <button className="px-10 py-3 text-sm font-semibold tracking-wide transition bg-transparent border-2 border-cyan-500 hover:bg-cyan-700 text-[#5ACAFA] cursor-pointer">
-            ПОДИВИДИСЯ ЦІНУ
+            ПОДИВИДИТИСЯ ЦІНУ
           </button>
         </div>
       </div>

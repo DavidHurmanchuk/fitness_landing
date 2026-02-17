@@ -25,7 +25,7 @@ export default function Contact() {
         </div>
 
         <div className="grid grid-cols-2 gap-12">
-          <div className="p-10 border bg-zinc-900 border-zinc-800">
+          <div className="p-10 border-2 border-[#5ACAFA]">
             <h3 className="mb-2 text-lg font-bold tracking-wide">
               ЗАПИСУЙСЯ І СТАВАЙ КРАЩИМ!
             </h3>
@@ -53,7 +53,7 @@ export default function Contact() {
               <div className="flex justify-end">
                 <button
                   type="submit"
-                  className="py-3 text-sm font-semibold tracking-wider transition w-40 h-10 bg-[#5ACAFA] hover:bg-cyan-600 cursor-pointer"
+                  className="py-3 text-sm font-semibold tracking-wider transition w-40 h-10 bg-[#5ACAFA] hover:bg-cyan-600 cursor-pointer text-black"
                 >
                   ЗАПИСАТИСЬ
                 </button>
