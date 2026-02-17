@@ -42,14 +42,14 @@ export default function About() {
           <div className="relative flex-1 h-80">
             <div className="absolute top-0 right-0 overflow-hidden rounded h-72 w-72">
               <img
-                src="src/assets/about_man.jpg"
+                src="/assets/about_man.jpg"
                 alt="About Man"
                 className="object-cover object-top w-full h-full"
               />
             </div>
             <div className="absolute z-10 overflow-hidden rounded right-54 top-20 w-60 h-60">
               <img
-                src="src/assets/about_girl.jpg"
+                src="/assets/about_girl.jpg"
                 alt="About Girl"
                 className="object-cover object-top w-full h-full"
               />

@@ -6,7 +6,7 @@ export default function Hero() {
     >
       <div className="absolute inset-0 z-10">
         <img
-          src="src/assets/bg_photo.jpg"
+          src="/assets/bg_photo.jpg"
           alt="Background"
           className="object-cover object-center w-full h-full"
         />
@@ -38,7 +38,7 @@ export default function Hero() {
       </div>
 
       <img
-        src="src/assets/manphoto-3.png"
+        src="/assets/manphoto-3.png"
         alt="Athlete"
         className="absolute bottom-0 left-36 z-10 max-h-[105vh] w-auto"
       />

@@ -8,7 +8,7 @@ export default function Footer() {
 
             <div className="flex items-center justify-center overflow-hidden h-15 w-15">
               <img
-                src="src/assets/insta_logo.png"
+                src="/assets/insta_logo.png"
                 alt="Instagram"
                 className="h-15 w-15"
               />
@@ -16,7 +16,7 @@ export default function Footer() {
 
             <div className="flex items-center justify-center overflow-hidden h-30 w-45">
               <img
-                src="src/assets/logo_test_task.png"
+                src="/assets/logo_test_task.png"
                 alt="Logo"
                 className="h-30 w-45"
               />
@@ -24,7 +24,7 @@ export default function Footer() {
 
             <div className="flex items-center justify-center overflow-hidden h-15 w-15">
               <img
-                src="src/assets/facebook_logo.png"
+                src="/assets/facebook_logo.png"
                 alt="Facebook"
                 className="h-15 w-15"
               />

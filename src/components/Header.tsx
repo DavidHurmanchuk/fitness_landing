@@ -5,7 +5,7 @@ export default function Header() {
         <div className="flex items-center">
           <div className="flex items-center justify-center w-40 h-20 overflow-hidden">
             <img
-              src="src/assets/logo_test_task.png"
+              src="/assets/logo_test_task.png"
               alt="Fitness Club Logo"
               className="object-contain w-full h-full"
             />

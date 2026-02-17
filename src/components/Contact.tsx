@@ -10,7 +10,7 @@ export default function Contact() {
   };
 
   return (
-    <section className="py-24">
+    <section className="py-24 bg-[#373637]">
       <div className="px-16 mx-auto max-w-7xl">
         <div className="flex items-end justify-end gap-6 mb-12">
           <div className="flex-1 h-0.5 bg-[#5ACAFA]"></div>
@@ -64,13 +64,13 @@ export default function Contact() {
           <div className="relative">
             <div className="absolute inset-0 border border-zinc-700">
               <img
-                src="src/assets/map_photo.png"
+                src="/assets/map_photo.png"
                 alt="Map"
                 className="object-cover w-full h-full"
               />
               <div className="absolute -translate-x-5/4 -translate-y-6/4 top-1/2 left-1/2">
                 <img
-                  src="src/assets/mappin.png"
+                  src="/assets/mappin.png"
                   alt="Map Pin"
                   className="w-12 h-16"
                 />
