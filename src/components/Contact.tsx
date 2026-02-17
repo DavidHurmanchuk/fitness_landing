@@ -62,7 +62,7 @@ export default function Contact() {
           </div>
 
           <div className="relative">
-            <div className="absolute inset-0 border border-zinc-700">
+            <div className="absolute inset-0">
               <img
                 src="/assets/map_photo.png"
                 alt="Map"
